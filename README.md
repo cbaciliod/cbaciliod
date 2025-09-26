@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+    <a href="https://www.linkedin.com/in/bxcode">
+        <img width="698" alt="Hello, I'm Christian. I do open source!" src="./images/62a005b6-e898-4325-8477-1b1e09bcbe0e.png" />
+    </a>
+</p>
 
-<!--
-**cbaciliod/cbaciliod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=rocket&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Novopayment-8A2BE2?style=for-the-badge&logo=openmediavault&logoColor=white)
+![Static Badge](https://img.shields.io/badge/intellij-idea-8A2BE2?style=for-the-badge&logo=intellijidea&logoColor=#000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+Working on...
