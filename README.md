@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/bxcode">
-        <img width="698" alt="Hello, I'm Christian. I do open source!" src="./images/62a005b6-e898-4325-8477-1b1e09bcbe0e.png" />
+        <img width="698" alt="Hello, I'm Christian. I do open source!" src="./62a005b6-e898-4325-8477-1b1e09bcbe0e.png" />
     </a>
 </p>
 
