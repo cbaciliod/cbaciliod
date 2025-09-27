@@ -27,9 +27,7 @@
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/cbaciliod">
-          <img align="center" src="https://streak-stats.demolab.com?user=cbaciliod&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cbaciliod&theme=merko&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
       </p>
     </td>
   </tr>
