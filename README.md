@@ -21,7 +21,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=cbaciliod&theme=vue&show_icons=true&hide_border=false&count_private=true" alt="cbaciliod's GitHub Stats" />
+         <img src="https://github-readme-stats.vercel.app/api?username=cbaciliod&theme=ayu-light&border_radius=10&short_numbers=true&show_icons=true&hide_border=false&count_private=true&exclude_days=Sun%2CSat" alt="cbaciliod's GitHub Stats" />
       </p>
     </td>
     <td width="50%">
