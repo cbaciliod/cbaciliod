@@ -16,7 +16,7 @@
 <br/>
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
