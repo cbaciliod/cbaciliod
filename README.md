@@ -21,7 +21,7 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        ![cbaciliod's Stats](https://github-readme-stats.vercel.app/api?username=cbaciliod&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+        <img src="https://github-readme-stats.vercel.app/api?username=cbaciliod&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="cbaciliod's GitHub Stats" />
       </p>
     </td>
     <td width="50%">
